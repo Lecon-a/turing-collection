@@ -1,12 +1,12 @@
 # Date: March 10, 2023
 
-# My Solution for Turing Practical Challenge
+# Solution for Turing Practical Challenge
 
 # This program collects input from user to check if brackets are properly opened and closed.
 
 If properly opened and closed accordingly, the program prints out success message, else, the program prints out failure message
 
-# SPAlgo'23
+# Algorithm 
 
 Step 1: Input text
 
@@ -24,7 +24,7 @@ Step 6: Iterate through the entered text/string
 
 [Sunday P. Afolabi](https://bit.ly/31Av5Ei)
 
-` Copyright 2023
+Copyright &copy; 2023
 
 
 
