@@ -8,7 +8,7 @@ If properly opened and closed accordingly, the program prints out success messag
 
 # SPAlgo'23
 
-Step 1: Input tex
+Step 1: Input text
 
 Step 2: Initialize dictionary for brackets and maps values appropriately to the brackets { => 1, } => -1, [ => 2, ] => -2, ( => 3, and ) => -3
 
