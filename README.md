@@ -1,6 +1,6 @@
 # Date: March 10, 2023
 
-# My Solution fot Turing Practical Challenge
+# My Solution for Turing Practical Challenge
 
 # This program collects input from user to check if brackets are properly opened and closed.
 
